@@ -15,3 +15,6 @@ As all projects are placed on the same branch, to keep history cleaner every com
 
 2. Links and images
    > Linking to other pages, referring to them with absolute, relative, and root-relative paths, embedding images, and finishing touches to our basic web page skeleton.
+
+3. Hello, CSS
+   > Connecting a stylesheet, styling HTML elements with all sorts of CSS properties, selecting different elements, and reusing styles across multiple web pages.

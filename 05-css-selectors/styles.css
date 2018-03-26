@@ -12,7 +12,12 @@
     font-style: normal;
 }
 
-.button {
+.button,
+.button:link,
+.button:visited {
+    display: block;
+    text-decoration: none;
+
     color: #fff;
     background-color: #5995da;
     font-weight: bold;
@@ -24,8 +29,32 @@
     margin: 20px auto;
 }
 
-.call-to-action {
+.button:hover,
+.button:visited:hover {
+    color: #fff;
+    background-color: #76aeed;
+}
+
+.button:active,
+.button:visited:active {
+    color: #fff;
+    background-color: #5995da;
+}
+
+.call-to-action,
+.call-to-action:link,
+.call-to-action:visited {
     font-style: italic;
+    background-color: #eeb75a;
+}
+
+.call-to-action:hover,
+.call-to-action:visited:hover {
+    background-color: #f5cf8e;
+}
+
+.call-to-action:active,
+.call-to-action:visited:active {
     background-color: #eeb75a;
 }
 

@@ -8,6 +8,10 @@
     font-style: italic;
 }
 
+.synopsis em {
+    font-style: normal;
+}
+
 .button {
     color: #fff;
     background-color: #5995da;

@@ -18,3 +18,6 @@ As all projects are placed on the same branch, to keep history cleaner every com
 
 3. Hello, CSS
    > Connecting a stylesheet, styling HTML elements with all sorts of CSS properties, selecting different elements, and reusing styles across multiple web pages.
+
+4. CSS box model
+   > Block boxes, inline boxes, padding, borders, margins, dimensions, and an introduction to how beautiful websites are built up with boxes. 

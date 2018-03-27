@@ -23,6 +23,10 @@
     justify-content: flex-end;
 }
 
+.signup {
+    margin-left: auto;
+}
+
 .login {
     margin-left: 20px;
 }

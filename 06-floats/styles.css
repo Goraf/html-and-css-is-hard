@@ -34,8 +34,7 @@
 }
 
 .footer {
-    clear: both;
-    height: 200px;
+    overflow: hidden;
     background-color: #d6e9fe;
 }
 

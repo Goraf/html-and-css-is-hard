@@ -57,7 +57,7 @@ p {
     width: 31%;
     margin: 20px 1.15%;
     height: 160px;
-    background-color: #b2d6ff
+    background-color: #b2d6ff;
 }
 
 .avatar {
@@ -75,4 +75,5 @@ p {
 
 .comment {
     margin: 10px;
+    overflow: hidden;
 }

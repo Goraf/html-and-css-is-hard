@@ -27,3 +27,6 @@ As all projects are placed on the same branch, to keep history cleaner every com
 
 6. Floats
    > Introduction to CSS float-based layouts, controlling the horizontal flow of the page, clearing floats, and hiding overflow.
+
+7. Flexbox
+   > Flex containers versus flex items, aligning vertically and horizontally, distributing, wrapping, re-ordering, and crafting modern CSS layouts.

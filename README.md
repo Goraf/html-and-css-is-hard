@@ -24,3 +24,6 @@ As all projects are placed on the same branch, to keep history cleaner every com
 
 5. CSS selectors
    > Class selectors, descendant selectors, more useful \<div>’s, styling links with pseudo-classes, and why ID selectors are a bad idea.
+
+6. Floats
+   > Introduction to CSS float-based layouts, controlling the horizontal flow of the page, clearing floats, and hiding overflow.

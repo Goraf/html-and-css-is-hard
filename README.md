@@ -30,3 +30,6 @@ As all projects are placed on the same branch, to keep history cleaner every com
 
 7. Flexbox
    > Flex containers versus flex items, aligning vertically and horizontally, distributing, wrapping, re-ordering, and crafting modern CSS layouts.
+
+8. Advanced positioning
+   > Static, relative, absolute, and fixed positioning, dropdown menus, the z-index, and other fancy CSS that’ll make you feel real smart.

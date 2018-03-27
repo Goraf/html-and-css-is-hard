@@ -38,3 +38,11 @@
     height: 200px;
     background-color: #d6e9fe;
 }
+
+.column {
+    float: left;
+    width: 31%;
+    margin: 20px 1.15%;
+    height: 160px;
+    background-color: #b2d6ff
+}

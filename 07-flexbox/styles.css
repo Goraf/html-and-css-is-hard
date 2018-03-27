@@ -13,14 +13,12 @@
 }
 
 .menu {
-    border: 1px solid #fff;
     width: 900px;
     display: flex;
     justify-content: space-between;
 }
 
 .links {
-    border: 1px solid #fff;
     display: flex;
     justify-content: flex-end;
 }

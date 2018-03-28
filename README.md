@@ -33,3 +33,6 @@ As all projects are placed on the same branch, to keep history cleaner every com
 
 8. Advanced positioning
    > Static, relative, absolute, and fixed positioning, dropdown menus, the z-index, and other fancy CSS that’ll make you feel real smart.
+
+9. Responsive design
+   > Using media queries to control when CSS rules are applied, mobile-first development, and disabling viewport zoom.

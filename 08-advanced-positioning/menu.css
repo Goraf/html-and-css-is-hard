@@ -66,3 +66,7 @@ a:hover {
 .features-menu li:last-of-type {
     border-bottom: none;
 }
+
+.dropdown {
+    position: relative;
+}
